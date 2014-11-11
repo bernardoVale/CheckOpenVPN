@@ -1,0 +1,5 @@
+Name  Mtu   Network     Address            Ipkts Ierrs    Opkts Oerrs  Coll
+en0   1500  link#2      5c.f3.fc.8f.b5.f2 2405872014     0 45728722     0     0
+en0   1500  192.168.0   srvoraprod       2405872014     0 45728722     0     0
+lo0   16896 link#1                       76976216     0 76975269     0     0
+lo0   16896 127         loopback         76976216     0 76975269     0     0

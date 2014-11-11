@@ -1,0 +1,15 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0  19416  1336 ?        Ss   Nov01   0:14 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Nov01   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Nov01   0:26 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Nov01   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        S    Nov01   0:00 [kworker/u:0]
+root         7  0.0  0.0      0     0 ?        S<   Nov01   0:00 [kworker/u:0H]
+root         8  0.0  0.0      0     0 ?        S    Nov01   0:11 [migration/0]
+root         9  0.0  0.0      0     0 ?        S    Nov01   0:00 [rcu_bh]
+root        10  0.0  0.0      0     0 ?        S    Nov01  11:37 [rcu_sched]
+root        11  0.0  0.0      0     0 ?        S    Nov01   0:03 [watchdog/0]
+root        12  0.0  0.0      0     0 ?        S    Nov01   0:03 [watchdog/1]
+root        13  0.0  0.0      0     0 ?        S    Nov01   0:18 [ksoftirqd/1]
+root        14  0.0  0.0      0     0 ?        S    Nov01   0:12 [migration/1]
+root        16  0.0  0.0      0     0 ?        S<   Nov01   0:00 [kworker/1:0H]

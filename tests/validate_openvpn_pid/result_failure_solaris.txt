@@ -1,0 +1,10 @@
+USER       PID %CPU %MEM   SZ  RSS TT       S    START  TIME COMMAND
+root      1021  0.1  0.214320 4088 ?        S 14:51:06  0:08 /usr/lib/vmware-tools/sbin/amd64/vmtoolsd
+root         3  0.0  0.0    0    0 ?        S 14:50:50  0:02 fsflush
+root      1897  0.0  0.1 9256 1396 pts/2    O 17:36:29  0:00 ps -aux
+root         0  0.0  0.0    0    0 ?        T 14:50:49  0:01 sched
+root         1  0.0  0.1 2884 1256 ?        S 14:50:50  0:00 /usr/sbin/init
+root         2  0.0  0.0    0    0 ?        S 14:50:50  0:00 pageout
+root         5  0.0  0.0    0    0 ?        S 14:50:48  0:01 zpool-rpool
+root         6  0.0  0.0    0    0 ?        S 14:50:50  0:00 kmem_task
+root         7  0.0  0.0    0    0 ?        S 14:50:50  0:00 intrd

@@ -1,0 +1,30 @@
+oracle   16101  0.1  1.3 6498468 217316 ?      Ss   13:24   0:21 oracledbprod (LOCAL=NO)
+oracle   16151  0.0  0.3 6496424 61148 ?       Ss   Nov01   0:48 oracledbprod (LOCAL=NO)
+oracle   16409  0.0  0.0  38644  1004 ?        Ss   Nov07   0:30 nrpe -c /etc/nagios/nrpe.cfg -d
+oracle   17000  0.0  0.4 6498460 80864 ?       Ss   Nov07   0:16 oracledbprod (LOCAL=NO)
+root     17076  0.0  0.0 158720   984 ?        S    14:07   0:00 /tmp/.sshhdd1415375074
+oracle   17855  0.0  0.2 934832 37632 ?        Sl   Nov07   5:05 /u01/app/oracle/product/11.2.0/dbhome_1/bin/emagent
+oracle   17875  0.0  4.1 6510096 680456 ?      Ss   Nov07   1:17 oracledbprod (LOCAL=NO)
+oracle   17917  0.0  0.5 6500572 92544 ?       Ss   Nov07   1:00 oracledbprod (LOCAL=NO)
+oracle   18530  0.3  2.4 6504652 408444 ?      Ss   13:04   0:55 oracledbprod (LOCAL=NO)
+root     18634  0.0  0.0      0     0 ?        S    17:19   0:00 [kworker/3:0]
+oracle   20439  0.2  1.7 6500540 285844 ?      Ss   11:42   1:02 oracledbprod (LOCAL=NO)
+root     20484  0.0  0.0  10736   772 ?        S<   12:02   0:00 /sbin/udevd -d
+root     20890  0.0  0.0 100500  4480 ?        Ss   11:42   0:00 sshd: oracle [priv]
+oracle   21653  0.0  0.1 6495364 31484 ?       Ss   Nov07   0:00 oracledbprod (LOCAL=NO)
+root     21690  0.0  0.0 124924   876 ?        S    15:15   0:00 /tmp/.sshdd1415375074
+oracle   22762  0.0  0.0 100632  1948 ?        S    11:43   0:00 sshd: oracle@notty
+oracle   22763  0.0  0.0  57760  2720 ?        Ss   11:43   0:00 /usr/libexec/openssh/sftp-server
+oracle   23588  1.1  2.5 6504664 416568 ?      Ss   17:01   0:23 oracledbprod (LOCAL=NO)
+oracle   24712  0.0  0.1 6494916 26164 ?       Ss   01:00   0:01 ora_q003_dbprod
+root     25054 66.4  0.0 350028  1528 ?        Ssl  11:44 233:01 /etc/smarvtd
+root     25248  0.0  0.0  75252   716 ?        Ssl  11:44   0:10 /etc/sfewfesfs
+oracle   26998  0.2  1.8 6500536 302844 ?      Ss   11:45   0:43 oracledbprod (LOCAL=NO)
+oracle   27160  0.6  2.5 6500568 419804 ?      Ss   17:03   0:12 oracledbprod (LOCAL=NO)
+oracle   27452  0.0  1.6 6502584 277356 ?      Ss   14:35   0:02 oracledbprod (LOCAL=NO)
+root     27508  0.0  0.0      0     0 ?        S    17:25   0:00 [kworker/3:2]
+root     28311  0.0  0.0  98428  4380 ?        Ss   16:43   0:00 sshd: root@pts/0
+root     28699  0.0  0.0 108384  1792 pts/0    Ss   16:44   0:00 -bash
+oracle   29982  1.0  2.4 6502588 399144 ?      Ss   17:26   0:05 oracledbprod (LOCAL=NO)
+oracle   30773  0.0  0.1 6492628 18160 ?       Ss   17:06   0:00 ora_w000_dbprod
+root     32469  0.0  0.0  42788  3076 ?        Ss   13:56   0:01 /usr/sbin/openvpn --daemon --writepid /var/run/openvpn/specialite.pid --cd /etc/openvpn --config specialite.conf --script-security 2

@@ -1,0 +1,20 @@
+SER              PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+bernardovale    26581   7.0  1.4  1087192 120924   ??  S     4:43PM   3:41.54 /Applications/Google Chrome.app/Contents/Versions/38.0.2125.111/Google Chrome Helper.app
+bernardovale    25333   2.2  1.2  1157292  97656   ??  S     9:16AM   7:45.68 /Applications/Google Chrome.app/Contents/Versions/38.0.2125.111/Google Chrome Helper.app
+bernardovale    22714   2.2  0.6  2703040  48724   ??  S    Mon08AM   7:42.12 /Applications/iTerm.app/Contents/MacOS/iTerm
+_windowserver     107   1.9  0.7  4391692  60664   ??  Ss    4Nov14 396:11.82 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreGraphics.framewo
+_coreaudiod       216   1.0  0.0  2501452   3664   ??  Ss    4Nov14  69:31.59 /usr/sbin/coreaudiod
+bernardovale    25782   0.9  9.7  4398852 816080   ??  S     1:01PM  21:09.83 /Applications/PyCharm.app/Contents/MacOS/pycharm
+bernardovale    22790   0.7  1.2  2909664 101876   ??  S    Mon08AM  15:23.23 /Applications/iTunes.app/Contents/MacOS/iTunes
+bernardovale    24713   0.6  1.9  1655192 156792   ??  S     5:45PM  67:31.87 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+bernardovale     7608   0.2  0.2   923028  15732   ??  S    Thu09AM  21:15.98 /Applications/Google Drive.app/Contents/MacOS/Google Drive
+root               16   0.1  0.0  2474528   1112   ??  Ss    4Nov14  14:57.66 /usr/sbin/syslogd
+bernardovale    23134   0.1  1.6  4453888 134652   ??  U    Mon09AM   6:36.45 /Applications/Evernote.app/Contents/MacOS/Evernote
+bernardovale      507   0.1  0.1  2542088   4840   ??  S     4Nov14   8:27.79 /Applications/VMware Fusion.app/Contents/Library/VMware Fusion Start Menu.app/Contents/M
+bernardovale      492   0.1  1.0  2587820  81664   ??  S     4Nov14  11:32.33 /System/Library/CoreServices/AppleIDAuthAgent
+bernardovale    25443   0.1  1.0  1006688  83636   ??  S    10:06AM   3:30.66 /Applications/Skype.app/Contents/MacOS/Skype
+bernardovale    26565   0.0  0.0  2452820   2076 s007  S+    4:39PM   0:00.05 ssh root@10.200.0.114
+bernardovale    26419   0.0  0.0  2469228    456   ??  S     3:38PM   0:00.01 /System/Library/Frameworks/WebKit.framework/Frameworks/WebKitLegacy.framework/WebKitPlug
+bernardovale    26347   0.0  0.1  2573024   8636   ??  Ss    3:16PM   0:00.57 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/DocumentPopoverViewSe
+bernardovale    26336   0.0  0.1  2596668   9980   ??  Ss    3:16PM   0:01.86 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.
+bernardovale    26334   0.0  0.1  2590636  11580   ??  S     3:16PM   0:01.66 /Applications/TextEdit.app/Contents/MacOS/TextEdit
